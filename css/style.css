@@ -79,10 +79,10 @@ header {
     vertical-align: middle;
 }
 
-nav { background: #262d33; }
+nav { background: #saddlebrown; }
 
 nav li a { 
-    color: #AFB2B6;
+    color: #white;
     display: inline-block;
     padding: 10px 10px;
 }
